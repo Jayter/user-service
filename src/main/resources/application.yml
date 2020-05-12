@@ -1,0 +1,7 @@
+
+user-service:
+  facade-url: localhost:8082
+  tenant: TEF
+
+server:
+  port: 8083
