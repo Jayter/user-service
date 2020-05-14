@@ -1,0 +1,7 @@
+
+user-service:
+  facade-url: localhost:8082
+  tenant: WELD
+
+server:
+  port: 8084
